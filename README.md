@@ -1,2 +1,2 @@
-# Slehjmk.github.io
+# Salehjmk.github.io
 GitHub Pages
